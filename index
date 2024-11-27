@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <link rel="icon" href="../static/imgs/favicons/favicon-32x32.png" type="image/png">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <!-- google fonts stuff -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter+Tight:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <!-- google font stuff ends -->
+
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body id="#page-top">
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="container">
+            <a class="" href="#page-top"><img src="/imgs/horizontal-logo.png" alt="..." class="navbar-logo" /></a>
+        </div>
+    </nav>
+
+    <script src="src/main.js"></script>
+</body>
+
+</html>
